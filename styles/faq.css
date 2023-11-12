@@ -1,5 +1,5 @@
 body {
-    font-family: Roboto, Inclusive Sans;
+    font-family: 'Roboto', 'Inclusive Sans', sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -9,7 +9,7 @@ header {
     color: #ffffff;
     padding: 15px;
     display: flex;
-    align-items: center; 
+    align-items: center;
 }
 
 .logo {
@@ -38,6 +38,6 @@ section {
 footer {
     background-color: #1a775f;
     color: #ffffff;
-    padding: 10px;
+    padding: 15px;
     text-align: center;
 }
