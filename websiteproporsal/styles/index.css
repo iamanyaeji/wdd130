@@ -71,7 +71,7 @@ p {
 
 header nav ul li a {
   text-decoration: none;
-  color: #000d08; 
+  color: #fffaf4; 
   font-size: 25px;
   transition: color 0.3s ease;
 }
@@ -109,7 +109,7 @@ footer {
 
 .social-links a {
   text-decoration: none;
-  color: #000d08;
+  color: #fffaf4;
   transition: color 0.3s ease;
 }
 
